@@ -1,10 +1,10 @@
 
 #calucation even number
-a = int (input('Enter the value of a : '))
+a = int (input("Enter the value of a :- "))
 
 
 if a%2 == 0:
-    print('even number')
+    print(a,' is an even number')
     
 else:
-    print('Odd number')
+    print(a, ' is an Odd number')
